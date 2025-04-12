@@ -1,0 +1,14 @@
+[
+    {
+        "Q1": "According to 'What Else Do I Need to Know? The Effect of Background Information on Users' Reliance on QA Systems' by Navita Goyal, how do users interact with QA systems when they lack sufficient information to assess predictions?",
+        "A1": "The study reveals that users rely on model predictions even when they lack sufficient information to assess the model's correctness. Providing relevant background helps them better detect model errors, reducing over-reliance on incorrect predictions."
+    },
+    {
+        "Q1": "According to \"Multimodal Hierarchical Dirichlet Process-based Active Perception\" by 'Tadahiro Taniguchi', what does their proposed method enable a robot to do in terms of object recognition?",
+        "A1": "Their proposed method enables a robot to form object categories using multimodal information, such as visual, auditory, and haptic data, which can be observed by performing actions on an object."
+    },
+    {
+        "Q1": "According to 'Multi-scale Cell Instance Segmentation with Keypoint Graph based Bounding Boxes' by Jingru Yi, what novel approach was proposed for cell instance segmentation?",
+        "A1": "The paper proposes a new box-based cell instance segmentation method that detects five predefined cell points via keypoints detection, groups these points using a keypoint graph to extract bounding boxes, and performs cell segmentation on feature maps within these boxes."
+    }
+]

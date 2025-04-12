@@ -2,7 +2,7 @@ from langchain.output_parsers import ResponseSchema
 import json
 from typing import Literal
 import re
-import nltk
+# import nltk
 from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag
 import os
